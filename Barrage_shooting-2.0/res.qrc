@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/enemy_bullet.png</file>
+        <file>res/hero_bullet.png</file>
+        <file>res/map.png</file>
+        <file>res/dream_world.png</file>
+        <file>res/line.png</file>
+        <file>res/press.png</file>
+        <file>res/lm.png</file>
+        <file>res/mls.png</file>
+        <file>res/QNL.png</file>
+        <file>res/dreamy_country.ico</file>
+        <file>res/lose.png</file>
+        <file>res/win.png</file>
+        <file>res/lm_lose.png</file>
+        <file>res/mls_lose.png</file>
+        <file>res/QNL_lose.png</file>
+    </qresource>
+</RCC>
